@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">lesson4.2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="description">Description</string>
+    <string name="title">Title</string>
+    <string name="add">Добавить предмет</string>
+    <string name="titlef">Титул</string>
+    <string name="desc">Описание</string>
+    <string name="signup">Зарегистрироваться</string>
+    <string name="checkpass">Подтвердите пароль</string>
+    <string name="password">Пароль</string>
+    <string name="email">Почта</string>
+    <string name="name">Имя</string>
+</resources>
